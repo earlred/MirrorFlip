@@ -30,6 +30,9 @@ console.log(mirroredStr, unmirroredResult); // ollɘʜ Hello
 
 To use the MirrorFlip functions in your project, simply copy the code and paste it in your source code file.
 
+# Demo
+Try it here live https://jsfiddle.net/kd7otpw8/1/
+
 # License
 
 The MirrorFlip functions are released under the MIT license.
